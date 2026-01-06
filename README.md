@@ -1,1 +1,3 @@
+# PHYS 210 Projects
 
+PHYS 210 — Introduction to Experimental Physics — is a UBC course that gives students the opportunity to create their own coding-based projects involving simulations of real-world phenomena. Each project culminates in a written report done in Jupyter Labs, containing all the relevant code, as well as written describtions detailing the context, methods, results, and conclusions. The projects I worked on throughout the course were (1) investigating the effects of tidal forces on an asteroid passing Jupiter and (2) looking at how nuclear fission depends on sample purity and the mean free path of the neutron.
